@@ -1,0 +1,6 @@
+train: C:\Users\Admin\Downloads\traffic light controller\Emergency_vehicles_in_Egypt\train\images
+val: C:\Users\Admin\Downloads\traffic light controller\Emergency_vehicles_in_Egypt\valid\images
+test: C:\Users\Admin\Downloads\traffic light controller\Emergency_vehicles_in_Egypt\test\images
+
+nc: 8
+names: ['Ambulance', 'Fire-truck', 'car', 'person', 'police-car', 'bus', 'truck', 'motorcycle']
